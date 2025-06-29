@@ -1,0 +1,19 @@
+Michael Armstrong  
+
+I created a bathroom countertop with a few things that you can expect to see in the bathroom.  There is a hairbrush, hair ties, the sink, the faucet, and a bottle of soap.  
+The hairbrush can be seen in the front left corner.  It is made of a box mesh for the brush head and a tapered cylinder mesh for the handle.  
+I decided that a wooden hairbrush is cute, so that is why it is made of a wooden texture.  
+Below the hairbrush, are three hair ties, made of torus meshes, in a few colors because a girl needs her hair ties to match her outfits, 
+and they always get lost, so we need a few hair ties laying around.  In the center of the scene is the bathroom sink.  I created the sink using a sphere mesh, 
+and squished it, so it would appear to be an above counter sink.  Behind the sink is the faucet.  The faucet is made of a cylinder mesh, and a cone mesh.  
+The cone mesh represents where the water comes out of the faucet.  To the right of the faucet, is a bottle of soap made of a cylinder mesh, that was also squished, 
+like a typical bottle of hand soap is shaped like.  The hardest part of programing this scene was the placement of some of my objects, like the hair ties.  
+In the front left corner, you can see that one of the hair ties, the grey one, is at an angle and sitting on top of the light blue one.  
+Making sure that the grey one was sitting directly on top of the blue one, while not being submerged in the floor, took a few tries to make the scene look real.
+Some aspects of the final design were not included, such as the lighting feature and the ability to turn it to orthographic view, with the click of a button.  
+However, by pressing the Q,W,E,A,S,D keys on the keyboard you can move the camera up, zoom in, down, left, zoom out, and right respectively.  
+Along with being able to change the camera angle by moving the mouse around the scene.  The program should also allow the user to change the speed of the 
+movement of camera controls by using the mouses scroll feature.  This program is reusable because every method is commented on, to allow a programmer to 
+understand what each function does, and even then, lines of code within the function are also commented to ensure that there is no confusion on what the code does. 
+
+ 
